@@ -31,7 +31,7 @@ The dataset may include pre-labeled sentiments, typically categorized as Positiv
 Machine Learning Models:-
 
 Models such as Naive Bayes, Logistic Regression, Decision Trees to classify sentiment based on tweet content.
-Evaluation: Models were evaluated using accuracy, precision, recall, and F1 score to determine the best model for sentiment classification.
+Evaluation: Models were evaluated using accuracy, precision to determine the best model for sentiment classification.
 
 5. Results:-
    
